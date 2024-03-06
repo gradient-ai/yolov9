@@ -45,3 +45,7 @@ seaborn>=0.11.0
 # mss
 albumentations>=1.0.3
 pycocotools>=2.0
+
+## App.py
+yolov9pip==0.0.4
+huggingface_hub
